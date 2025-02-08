@@ -1,10 +1,10 @@
 [
     {
-        "private_key": "0x123456789abcdef1234***",
-        "recipient": "0xabcdefabcdefabcd****"
+        "private_key": "0x123456789abcdef123432423423423423423",
+        "recipient": "0xabcdefabcdefabcd23424234234234"
     },
     {
-        "private_key": "0xwwf123456789abcdef1234***",
-        "recipient": "0xabcdefwfwfwfabcdefabcd****"
+        "private_key": "0xwwf123456789abcdef1234ewtgergerg34t3",
+        "recipient": "0xabcdefwfwfwfabcdefabcdwefwefwefwefwef"
     }
 ]
