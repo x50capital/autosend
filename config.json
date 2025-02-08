@@ -1,0 +1,9 @@
+{
+    "rpc_url": "https://rpc.linea.build",
+    "gas_limit": 200000,
+    "gas_price_multiplier": 2,
+    "monitored_tokens": [
+        "0xa1b2c3d4e5f678901234567890abcdef12345678",
+        "0xfedcba9876543210abcdefabcdefabcdefabcdef"
+    ]
+}
